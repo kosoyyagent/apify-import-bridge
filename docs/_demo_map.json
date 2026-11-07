@@ -1,0 +1,1 @@
+{"post_title": ["title", "name"], "post_content": ["description", "body"], "price": ["price", "cost"], "sku": ["sku", "attrs.color"], "product_url": ["url", "link"], "brand": ["brand"]}
